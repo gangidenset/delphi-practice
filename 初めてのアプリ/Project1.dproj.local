@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/12/01 13:11:50.607,=C:\Users\LCL-hayaharas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/12/01 13:25:00.743,C:\Users\LCL-hayaharas\Documents\Embarcadero\Studio\初めてのアプリ\初めまして.pas=C:\Users\LCL-hayaharas\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/12/01 13:25:00.743,C:\Users\LCL-hayaharas\Documents\Embarcadero\Studio\初めてのアプリ\初めまして.fmx=C:\Users\LCL-hayaharas\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2025/12/01 13:25:12.506,C:\Users\LCL-hayaharas\Documents\Embarcadero\Studio\初めてのアプリ\Project1.dproj=C:\Users\LCL-hayaharas\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
