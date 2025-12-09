@@ -1,0 +1,15 @@
+# Delphi バイナリ・ビルド成果物
+*.dcu
+*.exe
+*.dll
+*.bpl
+*.obj
+*.res
+*.local
+*.~* 
+
+# フォルダ
+Win32/
+Win64/
+Debug/
+Release/
